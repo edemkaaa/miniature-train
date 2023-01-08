@@ -8,7 +8,7 @@ import Router from "./routes/routes.js";
 // init express
 const app = express();
  
-// use express json
+// use express jsond
 app.use(express.json());
  
 // use cors
